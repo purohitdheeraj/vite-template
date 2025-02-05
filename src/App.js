@@ -12,6 +12,10 @@ const App = () => {
   return React.createElement("div", {}, [
     React.createElement("h1", {}, "Padre Gino's"),
     React.createElement(Pizza, {
+
+
+
+
       name: "The Pepperoni Pizza",
       description: "Mozzarella Cheese, Pepperoni",
     }),
